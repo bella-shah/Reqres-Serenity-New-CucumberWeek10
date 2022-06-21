@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User CURD test with steps","Verify is User is added or not","FAILURE","2022-06-21T11:10:28.426+01:00[Europe/London]","0.0","0.21"
+"User CURD test with steps","This will login a user","FAILURE","2022-06-21T11:10:28.695+01:00[Europe/London]","0.0","0.13"
+"User CURD test with steps","3. This will if verify second data id = 12","FAILURE","2022-06-21T11:10:29.518+01:00[Europe/London]","0.0","0.1"
+"User CURD test with steps","4. This will if verify forth data first_name = Rachel","FAILURE","2022-06-21T11:10:29.614+01:00[Europe/London]","0.0","0.11"
